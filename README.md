@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Instalando: 
-1 - Faça o clone do repositório: git clone https://github.com/naridevlope/Quiz-React-Project-.git;
-2 - Instale as dependências ( npm install ) 
+1 - Faça o clone do repositório: git clone https://github.com/naridevlope/Quiz-React-Project-.git; \n
+2 - Instale as dependências ( npm install ) \n
 3 - Rode npm run dev / npm start 
  
